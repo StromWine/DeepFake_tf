@@ -1,5 +1,5 @@
 # DeepFake_tf
-This deepfake using tensorflow is based on the https://github.com/dfaker/df which using keras. And it requires the dlib and face-alignment that you can get from https://github.com/1adrianb/face-alignment.git before training.
+This deepfake using tensorflow is based on the https://github.com/dfaker/df. And it requires the dlib and face-alignment that you can get from https://github.com/1adrianb/face-alignment.git before training.
 
 Inputs are 64x64 images outputs are a pair of 128x128 images one RGB with the reconstructed face, one B/W to be used as a mask to guide what sections of the image are to be replaced.
 
