@@ -13,7 +13,7 @@ The same as dfaker, for the reconstrcuted face masked DSSIM loss is used that be
 * copy the aligned cropped images into the A or B folder along with the alignments.json files from the source image folders.
 * run train.py as usual
 * wait
-* run merge_faces_larger.py on your image folder.
+* run merge_faces.py on your image folder.
 
 Directory structure for training data should look like (image names for example purposes only):
 
